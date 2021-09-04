@@ -73,7 +73,7 @@
   "name": "puxi.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixijs/pixi-ui.git"
+    "url": "git+https://github.com/jamesdelaneyie/puxi-mods.git"
   },
   "scripts": {
     "extract-api": "api-extractor run"
