@@ -1,22 +1,45 @@
 {
-  "name": "puxi",
-  "version": "1.0.0",
+  "_from": "github:jamesdelaneyie/puxi-mods",
+  "_id": "puxi@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/puxi",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:jamesdelaneyie/puxi-mods",
+    "rawSpec": "github:jamesdelaneyie/puxi-mods",
+    "saveSpec": "github:jamesdelaneyie/puxi-mods",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:jamesdelaneyie/puxi-mods#86e56373bcd1049db248ac7de0f826166482bd9c",
+  "_spec": "github:jamesdelaneyie/puxi-mods",
+  "_where": "/Users/jamesdelaney/Sites/bias",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jamesdelaneyie/puxi-mods/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "",
-  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "homepage": "https://github.com/jamesdelaneyie/puxi-mods#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "puxi",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jamesdelaneyie/puxi-mods.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jamesdelaneyie/puxi-mods/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/jamesdelaneyie/puxi-mods#readme"
+  "version": "1.0.0"
 }
